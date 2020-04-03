@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { callAPI } from './base'; // Get myself\n\nexport var getMyself = function getMyself() {\n  return callAPI(\"/users/me\");\n}; // Update myself\n\nexport var updateMyself = function updateMyself(data) {\n  return callAPI(\"/users/me\", 'put', data);\n};","map":null,"metadata":{},"sourceType":"module"}

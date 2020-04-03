@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport './style.scss';\n\nconst CurrencyStatsHeader = () => __jsx(\"h1\", null, \"Currency statistics\");\n\nexport default CurrencyStatsHeader;","map":null,"metadata":{},"sourceType":"module"}

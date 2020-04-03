@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport PageContainer from 'hoc/PageContainer';\nimport PageNotFound from 'components/PageNotFound';\n\nvar Page404 = function Page404() {\n  return __jsx(PageContainer, null, __jsx(PageNotFound, null));\n};\n\nexport default Page404;","map":null,"metadata":{},"sourceType":"module"}

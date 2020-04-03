@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nvar PageNotFound = function PageNotFound() {\n  return __jsx(\"h1\", null, \"Error 404 - page not found\");\n};\n\nexport default PageNotFound;","map":null,"metadata":{},"sourceType":"module"}

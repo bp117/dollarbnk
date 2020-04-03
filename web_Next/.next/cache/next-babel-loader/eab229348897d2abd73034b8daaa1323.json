@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { callAPI } from './base'; // Get user's accounts\n\nexport const getMyAccounts = (params = '') => callAPI(`/accounts/my/${params}`); // Get single account\n\nexport const getSingleAccount = id => callAPI(`/accounts/${id}`);","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport Logout from 'components/Auth/Logout';\nimport PageContainer from 'hoc/PageContainer';\n\nvar LogoutPage = function LogoutPage(props) {\n  return __jsx(PageContainer, null, __jsx(Logout, props));\n};\n\nexport default LogoutPage;","map":null,"metadata":{},"sourceType":"module"}

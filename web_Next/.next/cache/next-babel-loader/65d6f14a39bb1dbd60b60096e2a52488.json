@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React, { Component } from 'react';\n\nclass Layout extends Component {\n  render() {\n    return __jsx(\"main\", {\n      className: \"app container\"\n    }, this.props.children);\n  }\n\n}\n\nexport default Layout;","map":null,"metadata":{},"sourceType":"module"}

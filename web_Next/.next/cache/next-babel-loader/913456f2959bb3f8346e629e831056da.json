@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { callAPI } from './base'; // Get myself\n\nexport const getMyself = () => callAPI(`/users/me`); // Update myself\n\nexport const updateMyself = data => callAPI(`/users/me`, 'put', data);","map":null,"metadata":{},"sourceType":"module"}

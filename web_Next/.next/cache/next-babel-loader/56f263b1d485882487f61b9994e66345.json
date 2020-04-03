@@ -1,0 +1,1 @@
+{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\nimport '../style.scss';\nimport './style.scss';\n\nconst MultiModuleButtons = props => {\n  return __jsx(\"div\", {\n    className: \"multi-module-btns\"\n  }, props.children);\n};\n\nexport default MultiModuleButtons;","map":null,"metadata":{},"sourceType":"module"}

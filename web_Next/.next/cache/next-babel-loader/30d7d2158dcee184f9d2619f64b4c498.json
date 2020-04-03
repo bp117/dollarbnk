@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { callAPI } from './base'; // Get stats for specific account\n\nexport var getStats = function getStats(accId, daysPast) {\n  return callAPI(\"/stats/\".concat(accId, \"/\").concat(daysPast));\n};","map":null,"metadata":{},"sourceType":"module"}

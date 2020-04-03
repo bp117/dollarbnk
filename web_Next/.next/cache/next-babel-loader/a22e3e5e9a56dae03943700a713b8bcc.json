@@ -1,0 +1,1 @@
+{"ast":null,"code":"import * as Yup from 'yup'; // Check for exact length of string or number\n\nYup.addMethod(Yup.mixed, 'length', function (length, msg) {\n  return this.test({\n    name: 'length',\n    message: msg,\n    test: function test(value) {\n      return value && value.toString().length === length;\n    }\n  });\n});","map":null,"metadata":{},"sourceType":"module"}
