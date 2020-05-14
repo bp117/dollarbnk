@@ -1,0 +1,9 @@
+"_id","_index","_score","_type","parent.id","service.name","span.id","span.name","spane.name",timestamp,"trace.id","transaction.id"
+"_Xnm9XEBPxTupA3a4jav",customplugin,,doc,a538054aca31778d,alertsservice,79f994970450099e,"SELECT FROM INBOX",,"Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,a538054aca31778d
+"_nnr9XEBPxTupA3aETbx",customplugin,,doc,a538054aca31778d,alertsservice,79f994970450699e,"SELECT FROM INBOX1",,"Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,a538054aca31778d
+"_3nr9XEBPxTupA3aWDba",customplugin,,doc,a538054aca31778d,alertsservice,89f994970450099e,"SELECT FROM INBOX2",,"Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,a538054aca31778d
+AHns9XEBPxTupA3aBDdV,customplugin,,doc,,alertsservice,,,,"Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,a538054aca31778d
+AXns9XEBPxTupA3aQjdt,customplugin,,doc,89f994970450099e,complaintsservice,,,,"Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,db5d42298277e73f
+Anns9XEBPxTupA3aiDe5,customplugin,,doc,db5d42298277e73f,complaintsservice,fe1fb49e4efc085f,"select from usercomplaints",,"Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,db5d42298277e73f
+A3ns9XEBPxTupA3axzfX,customplugin,,doc,db5d42298277e73f,complaintsservice,ge1fb49e4efc085f,"select from emailbox",,"Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,db5d42298277e73f
+BHnt9XEBPxTupA3aDjcp,customplugin,,doc,79f994970450099e,cacheservice,,,"select from CACHE","Apr 2, 2020 @ 07:16:02.000",2d416232af1878c44a79f06116553da9,90a5c56300682dab
